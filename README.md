@@ -3,10 +3,10 @@
 I am a **MERN FULL STACK DEVELOPER**💻 , I have in **depth knowldege** of **HTML5**, **CSS3**, **Vanilla JavaScript**, **React.js**, **Node.js**, **Express.js**, **MongoDB** and **Git**.
 
 # 🧐 ABOUT
-I am a Developer that means I like to create new things, finding solutions for people's problem through my coding and programming knowledge.
+I am a **Developer** that means I like to **create new things**, **finding solutions** for people's **problem** through my **coding** and **programming knowledge**.
 
 # 👯 COMMUNITIES 
-- MERN STACK DEVELOPER at [The Youth Project-TYP](https://theyouthproject.in/)
+- **MERN FULL STACK DEVELOPER** at [The Youth Project-TYP](https://theyouthproject.in/)
   
 # ⚡TECHNOLOGIES
 
@@ -14,6 +14,7 @@ I am a Developer that means I like to create new things, finding solutions for p
 - **Backend development** using **Node**, **Express**.
 - **Architectural design** for **Relational Database Management Systems** as well as for **NoSQL database systems** like **MongoDB**.
 - Robust **full-stack system** design implementation.
+- Others : **C**, **C++**, **JAVA**, **PYTHON**, **ALEXA's SKILLS KIT**, **API TO BOT**,**SCRAPY**, **BS4**, **URLLIB**, **SELENIUM**, **MY SQL**, **PL/SQL**, **PASSPORT.JS**, **MOMENT.JS**, **DOTENV**, **CUSTOM-ENV**, **REST API**, **JWT**, **SWINGX**, **AWT**, etc. 
 
 # 📫 Contact Me
 - LinkedIn - [My LinkedIn Profile](https://www.linkedin.com/in/himanshu-bhardwaj-mern-stack-developer/)
