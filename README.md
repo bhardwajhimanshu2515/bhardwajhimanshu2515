@@ -1,3 +1,4 @@
+ <p style="text-align: center;">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhardwajhimanshu2515)](https://git.io/streak-stats)<br /></p> 
  # Himanshu Bhardwaj 😃
 
 I am a **MERN FULL STACK DEVELOPER**💻 , I have in **depth knowldege** of **HTML5**, **CSS3**, **Vanilla JavaScript**, **React.js**, **Node.js**, **Express.js**, **MongoDB** and **Git**.
@@ -21,6 +22,5 @@ I am a **Developer** that means I like to **create new things**, **finding solut
 - Stackoverflow - [My Stackoverflow Profile](https://stackoverflow.com/users/story/13917162?view=Cv)
 
 ![Himanshu's github stats](https://github-readme-stats.vercel.app/api?username=bhardwajhimanshu2515&show_icons=true&theme=default) <br />
-﻿[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhardwajhimanshu2515)](https://git.io/streak-stats)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajhimanshu2515&layout=compact)](https://github.com/bhardwajhimanshu2515/github-readme-stats)
 
