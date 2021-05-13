@@ -1,4 +1,5 @@
-﻿# Himanshu Bhardwaj 😃
+﻿[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhardwajhimanshu2515)](https://git.io/streak-stats)
+ # Himanshu Bhardwaj 😃
 
 I am a **MERN FULL STACK DEVELOPER**💻 , I have in **depth knowldege** of **HTML5**, **CSS3**, **Vanilla JavaScript**, **React.js**, **Node.js**, **Express.js**, **MongoDB** and **Git**.
 
