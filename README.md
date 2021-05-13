@@ -20,7 +20,7 @@ I am a **Developer** that means I like to **create new things**, **finding solut
 - LinkedIn - [My LinkedIn Profile](https://www.linkedin.com/in/himanshu-bhardwaj-mern-stack-developer/)
 - Stackoverflow - [My Stackoverflow Profile](https://stackoverflow.com/users/story/13917162?view=Cv)
 
-![Himanshu's github stats](https://github-readme-stats.vercel.app/api?username=bhardwajhimanshu2515&show_icons=true&theme=default)
-﻿[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhardwajhimanshu2515)](https://git.io/streak-stats)
+![Himanshu's github stats](https://github-readme-stats.vercel.app/api?username=bhardwajhimanshu2515&show_icons=true&theme=default) <br />
+﻿[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhardwajhimanshu2515)](https://git.io/streak-stats)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajhimanshu2515&layout=compact)](https://github.com/bhardwajhimanshu2515/github-readme-stats)
 
