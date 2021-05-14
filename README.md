@@ -11,7 +11,7 @@ I am a **Developer** that means I like to **create new things**, **finding solut
 # ⚡TECHNOLOGIES
 
 - **Front-end development** using **HTML5**, **CSS3**, **React**, **VanillaJS**.
-- **Backend development** using **Node**, **Express**.
+- **Backend development** using **Node**, **Express** and **Graphql**.
 - **Architectural design** for **Relational Database Management Systems** as well as for **NoSQL database systems** like **MongoDB**.
 - Robust **full-stack system** design implementation.
 - Others : **C**, **C++**, **JAVA**, **PYTHON**, **ALEXA's SKILLS KIT**, **API TO BOT**,**SCRAPY**, **BS4**, **URLLIB**, **SELENIUM**, **MY SQL**, **PL/SQL**, **PASSPORT.JS**, **MOMENT.JS**, **DOTENV**, **CUSTOM-ENV**, **REST API**, **JWT**, **SWINGX**, **AWT**, etc. 
