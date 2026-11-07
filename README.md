@@ -1,8 +1,8 @@
 # Hi, I'm Himanshu Bhardwaj 👋
 
-**Senior Full-Stack Engineer (MERN)** · React.js · Node.js · System Design · 5+ years building scalable web apps
+**Sr. Product Engineer – Full Stack @ [Smart Energy Water](https://www.smartenergywater.com/)** · React.js · Node.js · System Design · 5+ years building scalable web apps · Noida, India
 
-I build products end to end, and lately I build them **with AI**: shipping real, working tools to real users.
+I build products end to end, from UI to APIs to deployment, and lately I build them **with AI**: shipping real, working tools to real users.
 
 ---
 
@@ -44,21 +44,28 @@ AI raises the floor. Experience raises the ceiling.
 
 ---
 
+## 💼 Experience
+
+- **Smart Energy Water**, Sr. Product Engineer – Full Stack *(Jan 2025 – present)*: scalable React/Node apps for enterprise energy clients. Improved front-end performance by **20%** (rendering, code-splitting, reusable components), led high-priority production triage and championed automated testing. 🏆 *GALA Award*
+- **Smart Energy Water**, Product Engineer – Full Stack *(Aug 2023 – Jan 2025)*: built and shipped the Application, Bulk Application and Payment modules in React. 🏅 *Certificate of Excellence*
+- **Global Healthcare Resource**, Software Developer *(Mar 2022 – May 2023)*: web, iOS and Android UI with React and Ionic/Capacitor for a healthcare billing product, plus Node.js REST APIs and MongoDB models
+- **Simplior Technologies**, React JS Developer *(Apr 2021 – Mar 2022)*: HRMS front end (Chat, Payroll, integrations), GraphQL on AWS AppSync + DynamoDB, and a Slack peer-recognition app
+- **XenonStack**, Platform Ops Intern (Backend) *(Feb – Apr 2021)*: React/Node/GraphQL features on Hasura, MongoDB and SQL, plus technical proofs of concept
+- **The Youth Project (TYP)**, MERN Full Stack Developer *(May 2020 – Feb 2021)*: built the TYP Dashboard end to end, with CI/CD on Heroku and Netlify
+- **OotSuk**, Python Intern *(Dec 2019 – May 2020)*: web crawling and Alexa skills
+
 ## ⚡ Technologies
 
-- **Front end:** React, JavaScript/TypeScript, HTML5, CSS3
-- **Back end:** Node.js, Express, GraphQL, REST, JWT, Cloudflare Workers
-- **Data:** MongoDB, MySQL, PL/SQL, Cloudflare D1/KV
+- **Front end:** React, Redux Toolkit/Thunk, JavaScript/TypeScript, Ionic + Capacitor, HTML5, CSS3
+- **Back end:** Node.js, Express, GraphQL (AppSync, Hasura), REST, JWT, Cloudflare Workers
+- **Cloud and data:** AWS (Amplify, Lambda, S3, DynamoDB), MongoDB, MySQL, PL/SQL, Cloudflare D1/KV, Heroku, Netlify
 - **AI:** Claude, MCP servers and connectors, prompt and workflow design
 - **Also:** system design, Git, Python, Java, C/C++, Selenium, Scrapy
 
-## 👯 Communities
-
-- MERN Full Stack Developer at [The Youth Project (TYP)](https://theyouthproject.in/)
-
 ## 📫 Contact
 
-- LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/himanshu-bhardwaj-mern-stack-developer/)
+- 🟢 **Open to work:** senior full-stack / frontend roles (hybrid or remote)
+- LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/mern-full-stack-developer/)
 - Stack Overflow: [My Stack Overflow profile](https://stackoverflow.com/users/story/13917162?view=Cv)
 
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhardwajhimanshu2515&show_icons=true&theme=default) <br />
