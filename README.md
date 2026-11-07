@@ -10,7 +10,7 @@ I build products end to end, from UI to APIs to deployment, and lately I build t
 
 ## 🚀 Latest: Postline, a Claude connector for LinkedIn
 
-[**Postline**](https://github.com/bhardwajhimanshu2515/postline) lets Claude write, schedule and publish LinkedIn posts after you approve them. Submitted to Claude's Connectors Directory.
+[**Postline**](https://github.com/bhardwajhimanshu2515/postline) lets Claude write, schedule and publish LinkedIn posts after you approve them. Submitted to Claude's Connectors Directory. 📝 [Read how I built it on Medium](https://medium.com/@bhardwajhimanshu2515)
 
 - **Post types:** text, images (1–20), MP4 video, PDF carousels, polls, link cards and reshares
 - **Scheduling:** up to 59 days ahead. The server publishes on time even when Claude is closed, and retries if LinkedIn is briefly down
@@ -67,6 +67,7 @@ AI raises the floor. Experience raises the ceiling.
 ## 📫 Contact
 
 - LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/mern-full-stack-developer/)
+- Medium: [My Medium blog](https://medium.com/@bhardwajhimanshu2515)
 - Stack Overflow: [My Stack Overflow profile](https://stackoverflow.com/users/story/13917162?view=Cv)
 
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhardwajhimanshu2515&show_icons=true&theme=default) <br />
