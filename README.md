@@ -4,6 +4,8 @@
 
 I build products end to end, from UI to APIs to deployment, and lately I build them **with AI**: shipping real, working tools to real users.
 
+🟢 **Open to work:** senior full-stack / frontend roles, hybrid or remote. [Message me on LinkedIn](https://www.linkedin.com/in/mern-full-stack-developer/)
+
 ---
 
 ## 🚀 Latest: Postline, a Claude connector for LinkedIn
