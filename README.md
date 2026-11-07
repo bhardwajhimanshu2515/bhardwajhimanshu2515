@@ -64,7 +64,6 @@ AI raises the floor. Experience raises the ceiling.
 
 ## 📫 Contact
 
-- 🟢 **Open to work:** senior full-stack / frontend roles (hybrid or remote)
 - LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/mern-full-stack-developer/)
 - Stack Overflow: [My Stack Overflow profile](https://stackoverflow.com/users/story/13917162?view=Cv)
 
