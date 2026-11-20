@@ -71,5 +71,3 @@ AI raises the floor. Experience raises the ceiling.
 - Medium: [My Medium blog](https://medium.com/@bhardwajhimanshu2515)
 - Stack Overflow: [My Stack Overflow profile](https://stackoverflow.com/users/story/13917162?view=Cv)
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhardwajhimanshu2515&show_icons=true&theme=default) <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhardwajhimanshu2515)](https://git.io/streak-stats)<br />
