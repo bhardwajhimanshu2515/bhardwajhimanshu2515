@@ -2,7 +2,14 @@
 
 **Sr. Product Engineer – Full Stack @ [Smart Energy Water](https://www.smartenergywater.com/)** · React.js · Node.js · System Design · 5+ years building scalable web apps · Noida, India
 
-📦 **Maintainer of [react-gauge-chart](https://www.npmjs.com/package/react-gauge-chart)** (270k+ monthly npm downloads) · 🐧 **Linux kernel patch accepted** (IIO subsystem) · **12 merged PRs** in open source
+[![npm maintainer](https://img.shields.io/badge/npm-maintainer%20of%20react--gauge--chart-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/react-gauge-chart)
+[![monthly downloads](https://img.shields.io/npm/dm/react-gauge-chart?label=downloads&color=CB3837)](https://www.npmjs.com/package/react-gauge-chart)
+[![Linux kernel](https://img.shields.io/badge/Linux%20kernel-patch%20accepted-FCC624?logo=linux&logoColor=black)](#-open-source)
+[![merged PRs](https://img.shields.io/badge/open%20source-12%20merged%20PRs-2ea44f?logo=github)](#-open-source)
+
+> 🐧 **Linux kernel contributor:** my bug fix for the IIO subsystem tools was accepted by maintainer Jonathan Cameron into `iio.git` and is headed for the next Linux release.
+>
+> 📦 **npm maintainer:** I maintain [react-gauge-chart](https://www.npmjs.com/package/react-gauge-chart), a React + D3 library downloaded 270k+ times a month.
 
 I build products end to end, from UI to APIs to deployment, and lately I build them **with AI**: shipping real, working tools to real users.
 
