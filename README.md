@@ -2,9 +2,19 @@
 
 **Sr. Product Engineer – Full Stack @ [Smart Energy Water](https://www.smartenergywater.com/)** · React.js · Node.js · System Design · 5+ years building scalable web apps · Noida, India
 
+📦 **Maintainer of [react-gauge-chart](https://www.npmjs.com/package/react-gauge-chart)** (270k+ monthly npm downloads) · 🐧 **Linux kernel patch** under review · **12 merged PRs** in open source
+
 I build products end to end, from UI to APIs to deployment, and lately I build them **with AI**: shipping real, working tools to real users.
 
 🟢 **Open to work:** senior full-stack / frontend roles, hybrid or remote. [Message me on LinkedIn](https://www.linkedin.com/in/mern-full-stack-developer/)
+
+---
+
+## 🌍 Open source
+
+- **Maintainer of [react-gauge-chart](https://github.com/Martin36/react-gauge-chart)**, a React + D3 gauge library with **270k+ monthly downloads** on [npm](https://www.npmjs.com/package/react-gauge-chart). The owner made me an npm maintainer and GitHub collaborator after 9 merged PRs: fixes for re-render loops, server-side rendering crashes and needle animation bugs, plus opt-in props for needle clamping and arc labels, with no breaking changes for existing users
+- **Linux kernel (IIO tools):** sent a C bug-fix patch so `tools/iio` reads channel-specific scale and offset values before generic ones. On sensors like the MAX31855 the old lookup could make ambient temperature readings 4x too large. Reviewed and now with the IIO maintainers as v2
+- **Merged fixes** in [Nextcloud Forms](https://github.com/nextcloud/forms/pull/3937) (keyboard focus when reordering options, backported to stable) and [neo.mjs](https://github.com/neomjs/neo/pull/21489)
 
 ---
 
