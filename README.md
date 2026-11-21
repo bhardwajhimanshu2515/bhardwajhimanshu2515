@@ -65,6 +65,8 @@ AI raises the floor. Experience raises the ceiling.
 
 ## 💼 Experience
 
+- **react-gauge-chart (open source)**, Maintainer *(Nov 2026 – present)*: npm maintainer and GitHub collaborator for a React + D3 library with **270k+ monthly downloads**; 9 merged PRs with no breaking changes for existing users
+- **Linux kernel (IIO subsystem)**, Contributor *(Nov 2026)*: C bug fix in `tools/iio`, reviewed by Andy Shevchenko and accepted by maintainer Jonathan Cameron into `iio.git` for the next Linux release
 - **Smart Energy Water**, Sr. Product Engineer – Full Stack *(Jan 2025 – present)*: scalable React/Node apps for enterprise energy clients. Improved front-end performance by **20%** (rendering, code-splitting, reusable components), led high-priority production triage and championed automated testing. 🏆 *GALA Award*
 - **Smart Energy Water**, Product Engineer – Full Stack *(Aug 2023 – Jan 2025)*: built and shipped the Application, Bulk Application and Payment modules in React. 🏅 *Certificate of Excellence*
 - **Global Healthcare Resource**, Software Developer *(Mar 2022 – May 2023)*: web, iOS and Android UI with React and Ionic/Capacitor for a healthcare billing product, plus Node.js REST APIs and MongoDB models
@@ -79,6 +81,7 @@ AI raises the floor. Experience raises the ceiling.
 - **Back end:** Node.js, Express, GraphQL (AppSync, Hasura), REST, JWT, Cloudflare Workers
 - **Cloud and data:** AWS (Amplify, Lambda, S3, DynamoDB), MongoDB, MySQL, PL/SQL, Cloudflare D1/KV, Heroku, Netlify
 - **AI:** Claude, MCP servers and connectors, prompt and workflow design
+- **Open source:** npm package maintenance, Linux kernel patches by email (`git send-email`), D3.js
 - **Also:** system design, Git, Python, Java, C/C++, Selenium, Scrapy
 
 ## 📫 Contact
